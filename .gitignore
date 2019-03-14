@@ -1,0 +1,6 @@
+*.sublime-workspace
+
+#Ignore tex intermediary files
+*.aux
+*.log
+*.synctex.gz
